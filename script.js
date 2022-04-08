@@ -1,5 +1,4 @@
 let user= prompt("Welcome to GC mini golf! What is your name?");
-console.log(user);
 
 let count= Number (prompt("Hi, " + user + "!" + " Would you like to play 3 or 6 holes?"));
 
